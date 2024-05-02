@@ -45,7 +45,7 @@ resulting binary search tree A3.
 The project is implemented using the Khawarizm environment, with modules
 designed to simulate tree fusion operations for multiple traversal combinations.
 
-## Part "C" - Translation to C
+### Part "C" - Translation to C
 
 (a) Automatically translate the algorithm to C and test the resulting program.
 Use m = 50 and n = 10,000 (or higher) to evaluate performance. (b) Enhance the C
@@ -60,7 +60,7 @@ orders and evaluates the resulting tree structures under different simulation
 scenarios. The project includes a C implementation executed in the Khawarizm
 environment, with detailed analysis and performance evaluation.
 
-### Report
+## Report
 
 A comprehensive PDF report (maximum 3 pages) is required, detailing simulation
 results, comparative analysis of traversal types, and graphical representations
